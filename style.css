@@ -108,27 +108,31 @@ body{
 }
 
 #homepage{
-	padding-top: 7.1vw;
+	margin-top: 7.1vw;
 	left: 12vw;
 	width: 3.5vw;
 }
 
 #games{
-	padding-top: 20vw;
+	margin-top: 20vw;
 	left: 70vw;
 	width: 3.5vw;
 }
 
 #influences{
-	padding-top: 30vw;
+	margin-top: 30vw;
 	left: 35vw;
 	width: 6vw;
 }
 
 #rankings{
-	padding-top: 49vw;
+	margin-top: 49vw;
 	left: 19.5vw;
 	width: 3.5vw;
+}
+
+.extraSprites img:hover{
+	transform: scale(1.3);
 }
 
 .navigation a:hover{
