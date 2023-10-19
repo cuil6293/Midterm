@@ -301,6 +301,11 @@ body{
 	transform: scale(1.2);
 }
 
+.extrameat h2{
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
 .extrameat img{
 	margin-left: 25%;
 	width: 40vw;
