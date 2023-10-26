@@ -1,10 +1,13 @@
-@import url('https://www.pentacom.jp/pentacom/bitfontmaker2/gallery/?id=1298');
 @import url('https://fonts.googleapis.com/css2?family=Baloo+2:wght@800&display=swap');
+@font-face {
+	font-family: CelticTime;
+	src: url(CelticTime.ttf);
+}
 
 body{
 	margin: 0px;
 	padding: 0px;
-	font-family: "CelticTime";
+	font-family: CelticTime;
 	background-image: url("Turnip-BG.jpeg");
 	background-size: 35%;
 	background-repeat: repeat;
